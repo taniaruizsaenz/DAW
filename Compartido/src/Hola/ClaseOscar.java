@@ -6,13 +6,11 @@ public class ClaseOscar {
 		
 		System.out.println("Hola Git.");
 		System.out.println("Hola Tania.");
-<<<<<<< HEAD
-		System.out.println("Esta es otra modificación mía, oscar.");
 
-=======
+		System.out.println("Esta es otra modificación mía, oscar.");
 		System.out.println("Hola soy Tania y voy a modificar esta clase");
 		System.out.println("Hola es mi segunda modificacion");
->>>>>>> branch 'master' of https://github.com/taniaruizsaenz/DAW.git
+
 	}
 
 }
