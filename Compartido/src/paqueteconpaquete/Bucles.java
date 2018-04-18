@@ -1,12 +1,14 @@
 package paqueteconpaquete;
 
 public class Bucles {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		for(int i =0;i<10;i++)
-			System.out.println("i vale: "+ i);
-
+	
+	public static int sum(int a, int b){
+		
+		return a+b;
 	}
 
+	public static void main(String[] args) {
+		
+
+	}
 }
